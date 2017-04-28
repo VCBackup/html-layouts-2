@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 5px;
+    background-color: burlywood;
+}
+
+placeholder{
+    color: #D0021B;
+    color: #4A90E2;
+    color: #4A4A4A;
+}
+div{
+    font-size: 10px;
+    background-color: sandybrown;
+}
